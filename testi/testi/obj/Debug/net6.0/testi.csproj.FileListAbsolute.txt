@@ -1,0 +1,15 @@
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\obj\Debug\net6.0\testi.csproj.AssemblyReference.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\obj\Debug\net6.0\testi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\obj\Debug\net6.0\testi.AssemblyInfoInputs.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\obj\Debug\net6.0\testi.AssemblyInfo.cs
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\obj\Debug\net6.0\testi.csproj.CoreCompileInputs.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\bin\Debug\net6.0\testi.exe
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\bin\Debug\net6.0\testi.deps.json
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\bin\Debug\net6.0\testi.runtimeconfig.json
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\bin\Debug\net6.0\testi.dll
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\bin\Debug\net6.0\testi.pdb
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\obj\Debug\net6.0\testi.dll
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\obj\Debug\net6.0\refint\testi.dll
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\obj\Debug\net6.0\testi.pdb
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\obj\Debug\net6.0\testi.genruntimeconfig.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\obj\Debug\net6.0\ref\testi.dll
