@@ -1,0 +1,15 @@
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\bin\Debug\net6.0\esimekki_eläin.exe
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\bin\Debug\net6.0\esimekki_eläin.deps.json
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\bin\Debug\net6.0\esimekki_eläin.runtimeconfig.json
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\bin\Debug\net6.0\esimekki_eläin.dll
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\bin\Debug\net6.0\esimekki_eläin.pdb
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\obj\Debug\net6.0\esimekki_eläin.csproj.AssemblyReference.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\obj\Debug\net6.0\esimekki_eläin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\obj\Debug\net6.0\esimekki_eläin.AssemblyInfoInputs.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\obj\Debug\net6.0\esimekki_eläin.AssemblyInfo.cs
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\obj\Debug\net6.0\esimekki_eläin.csproj.CoreCompileInputs.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\obj\Debug\net6.0\esimekki_eläin.dll
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\obj\Debug\net6.0\refint\esimekki_eläin.dll
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\obj\Debug\net6.0\esimekki_eläin.pdb
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\obj\Debug\net6.0\esimekki_eläin.genruntimeconfig.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\testi\testi\obj\Debug\net6.0\ref\esimekki_eläin.dll
