@@ -1,0 +1,15 @@
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus6\obj\Debug\net6.0\harjoitus6.csproj.AssemblyReference.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus6\obj\Debug\net6.0\harjoitus6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus6\obj\Debug\net6.0\harjoitus6.AssemblyInfoInputs.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus6\obj\Debug\net6.0\harjoitus6.AssemblyInfo.cs
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus6\obj\Debug\net6.0\harjoitus6.csproj.CoreCompileInputs.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus6\bin\Debug\net6.0\harjoitus6.exe
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus6\bin\Debug\net6.0\harjoitus6.deps.json
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus6\bin\Debug\net6.0\harjoitus6.runtimeconfig.json
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus6\bin\Debug\net6.0\harjoitus6.dll
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus6\bin\Debug\net6.0\harjoitus6.pdb
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus6\obj\Debug\net6.0\harjoitus6.dll
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus6\obj\Debug\net6.0\refint\harjoitus6.dll
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus6\obj\Debug\net6.0\harjoitus6.pdb
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus6\obj\Debug\net6.0\harjoitus6.genruntimeconfig.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus6\obj\Debug\net6.0\ref\harjoitus6.dll
