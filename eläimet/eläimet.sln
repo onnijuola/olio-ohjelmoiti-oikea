@@ -5,7 +5,9 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "harjoitus6", "harjoitus6\harjoitus6.csproj", "{57190722-7E8B-4768-A7C0-6C97C95569C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus7", "harjoitus7\harjoitus7.csproj", "{27E3170B-5935-4BBA-AF9D-10389298F432}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "harjoitus7", "harjoitus7\harjoitus7.csproj", "{27E3170B-5935-4BBA-AF9D-10389298F432}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus8", "harjoitus8\harjoitus8.csproj", "{88C99B86-C891-47D7-8E16-3AE1BD0D2F7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{27E3170B-5935-4BBA-AF9D-10389298F432}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27E3170B-5935-4BBA-AF9D-10389298F432}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27E3170B-5935-4BBA-AF9D-10389298F432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88C99B86-C891-47D7-8E16-3AE1BD0D2F7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C99B86-C891-47D7-8E16-3AE1BD0D2F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C99B86-C891-47D7-8E16-3AE1BD0D2F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C99B86-C891-47D7-8E16-3AE1BD0D2F7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
