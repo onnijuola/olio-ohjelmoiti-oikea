@@ -1,0 +1,15 @@
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus 9\bin\Debug\net6.0\harjoitus 9.exe
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus 9\bin\Debug\net6.0\harjoitus 9.deps.json
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus 9\bin\Debug\net6.0\harjoitus 9.runtimeconfig.json
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus 9\bin\Debug\net6.0\harjoitus 9.dll
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus 9\bin\Debug\net6.0\harjoitus 9.pdb
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus 9\obj\Debug\net6.0\harjoitus 9.csproj.AssemblyReference.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus 9\obj\Debug\net6.0\harjoitus 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus 9\obj\Debug\net6.0\harjoitus 9.AssemblyInfoInputs.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus 9\obj\Debug\net6.0\harjoitus 9.AssemblyInfo.cs
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus 9\obj\Debug\net6.0\harjoitus 9.csproj.CoreCompileInputs.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus 9\obj\Debug\net6.0\harjoitus 9.dll
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus 9\obj\Debug\net6.0\refint\harjoitus 9.dll
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus 9\obj\Debug\net6.0\harjoitus 9.pdb
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus 9\obj\Debug\net6.0\harjoitus 9.genruntimeconfig.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\eläimet\harjoitus 9\obj\Debug\net6.0\ref\harjoitus 9.dll
