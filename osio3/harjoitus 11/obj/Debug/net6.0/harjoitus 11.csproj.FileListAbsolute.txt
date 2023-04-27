@@ -1,0 +1,15 @@
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus 11\obj\Debug\net6.0\harjoitus 11.csproj.AssemblyReference.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus 11\obj\Debug\net6.0\harjoitus 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus 11\obj\Debug\net6.0\harjoitus 11.AssemblyInfoInputs.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus 11\obj\Debug\net6.0\harjoitus 11.AssemblyInfo.cs
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus 11\obj\Debug\net6.0\harjoitus 11.csproj.CoreCompileInputs.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus 11\bin\Debug\net6.0\harjoitus 11.exe
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus 11\bin\Debug\net6.0\harjoitus 11.deps.json
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus 11\bin\Debug\net6.0\harjoitus 11.runtimeconfig.json
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus 11\bin\Debug\net6.0\harjoitus 11.dll
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus 11\bin\Debug\net6.0\harjoitus 11.pdb
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus 11\obj\Debug\net6.0\harjoitus 11.dll
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus 11\obj\Debug\net6.0\refint\harjoitus 11.dll
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus 11\obj\Debug\net6.0\harjoitus 11.pdb
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus 11\obj\Debug\net6.0\harjoitus 11.genruntimeconfig.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus 11\obj\Debug\net6.0\ref\harjoitus 11.dll
