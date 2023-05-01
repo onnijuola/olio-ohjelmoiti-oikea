@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus 10", "harjoitus 10\harjoitus 10.csproj", "{8C12E93B-5BAA-4187-8C81-B222A919F410}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "harjoitus 10", "harjoitus 10\harjoitus 10.csproj", "{8C12E93B-5BAA-4187-8C81-B222A919F410}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "harjoitus 11", "harjoitus 11\harjoitus 11.csproj", "{85F2F53E-9153-4D6E-AEA1-6BDE2FFA2041}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "harjoitus 11", "harjoitus 11\harjoitus 11.csproj", "{85F2F53E-9153-4D6E-AEA1-6BDE2FFA2041}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Korttipakka", "Korttipakka\Korttipakka.csproj", "{00027569-DA87-4144-9C76-97524EF4DE49}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{85F2F53E-9153-4D6E-AEA1-6BDE2FFA2041}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85F2F53E-9153-4D6E-AEA1-6BDE2FFA2041}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85F2F53E-9153-4D6E-AEA1-6BDE2FFA2041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00027569-DA87-4144-9C76-97524EF4DE49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00027569-DA87-4144-9C76-97524EF4DE49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00027569-DA87-4144-9C76-97524EF4DE49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00027569-DA87-4144-9C76-97524EF4DE49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
