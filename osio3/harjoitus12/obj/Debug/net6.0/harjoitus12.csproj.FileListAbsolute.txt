@@ -1,0 +1,15 @@
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus12\bin\Debug\net6.0\harjoitus12.exe
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus12\bin\Debug\net6.0\harjoitus12.deps.json
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus12\bin\Debug\net6.0\harjoitus12.runtimeconfig.json
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus12\bin\Debug\net6.0\harjoitus12.dll
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus12\bin\Debug\net6.0\harjoitus12.pdb
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus12\obj\Debug\net6.0\harjoitus12.csproj.AssemblyReference.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus12\obj\Debug\net6.0\harjoitus12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus12\obj\Debug\net6.0\harjoitus12.AssemblyInfoInputs.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus12\obj\Debug\net6.0\harjoitus12.AssemblyInfo.cs
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus12\obj\Debug\net6.0\harjoitus12.csproj.CoreCompileInputs.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus12\obj\Debug\net6.0\harjoitus12.dll
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus12\obj\Debug\net6.0\refint\harjoitus12.dll
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus12\obj\Debug\net6.0\harjoitus12.pdb
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus12\obj\Debug\net6.0\harjoitus12.genruntimeconfig.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio3\harjoitus12\obj\Debug\net6.0\ref\harjoitus12.dll

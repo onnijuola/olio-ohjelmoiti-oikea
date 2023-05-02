@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "harjoitus13 oikea/1.0.0": {
+        "runtime": {
+          "harjoitus13 oikea.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "harjoitus13 oikea/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
