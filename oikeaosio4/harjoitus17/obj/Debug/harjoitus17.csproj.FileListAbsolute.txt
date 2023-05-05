@@ -1,0 +1,16 @@
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus17\bin\Debug\harjoitus17.exe.config
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus17\bin\Debug\harjoitus17.exe
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus17\bin\Debug\harjoitus17.pdb
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus17\obj\Debug\harjoitus17.csproj.AssemblyReference.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus17\obj\Debug\harjoitus17.csproj.SuggestedBindingRedirects.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus17\obj\Debug\MainWindow.g.cs
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus17\obj\Debug\App.g.cs
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus17\obj\Debug\harjoitus17_MarkupCompile.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus17\obj\Debug\harjoitus17_MarkupCompile.lref
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus17\obj\Debug\MainWindow.baml
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus17\obj\Debug\harjoitus17.g.resources
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus17\obj\Debug\harjoitus17.Properties.Resources.resources
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus17\obj\Debug\harjoitus17.csproj.GenerateResource.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus17\obj\Debug\harjoitus17.csproj.CoreCompileInputs.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus17\obj\Debug\harjoitus17.exe
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus17\obj\Debug\harjoitus17.pdb

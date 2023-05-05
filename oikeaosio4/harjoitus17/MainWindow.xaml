@@ -1,0 +1,22 @@
+﻿<Window x:Class="harjoitus17.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:harjoitus17"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock x:Name="tb_keittiö" HorizontalAlignment="Left" Margin="574,174,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="poissa"/>
+        <TextBlock x:Name="tb_olohuone" HorizontalAlignment="Left" Margin="574,0,0,0" TextWrapping="Wrap" Text="poissa" VerticalAlignment="Center"/>
+        <RadioButton x:Name="talolukkoon" HorizontalAlignment="Left" Margin="654,243,0,0" VerticalAlignment="Top" Content="talon lukko" Checked="lukko_check"/>
+        <TextBlock x:Name="tb_lukko" HorizontalAlignment="Left" Margin="574,245,0,0" TextWrapping="Wrap" Text="auki" VerticalAlignment="Top" IsEnabled="False"/>
+        <Image HorizontalAlignment="Left" Height="169" Margin="155,120,0,0" VerticalAlignment="Top" Width="188"/>
+        <Image Margin="24,10,416,64" Source="/Image1.png" Stretch="Fill"/>
+        <CheckBox x:Name="keittiövalot" HorizontalAlignment="Left" Margin="671,175,0,0" VerticalAlignment="Top" Checked="keittiö_check" Content="keittiön valot"/>
+        <CheckBox x:Name="olohuoneenvalot" HorizontalAlignment="Left" Margin="658,0,0,0" VerticalAlignment="Center" Height="16" Checked="olohuone_check" Content="olo huoneen valot"/>
+        <TextBlock x:Name="tb_lämpö" HorizontalAlignment="Left" Margin="550,292,0,0" TextWrapping="Wrap" Text="lämpö tila on" VerticalAlignment="Top"/>
+        <TextBox x:Name="lämpö" HorizontalAlignment="Left" Margin="640,292,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>
