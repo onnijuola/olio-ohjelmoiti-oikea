@@ -1,0 +1,17 @@
+﻿<Window x:Class="harjoitus16.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:harjoitus16"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="tb1" HorizontalAlignment="Left" Margin="212,229,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="132" Height="45"/>
+        <TextBox x:Name="tb2" HorizontalAlignment="Left" Margin="524,229,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Height="41"/>
+        <Button x:Name="bt" Content="km to miles" HorizontalAlignment="Left" Margin="400,231,0,0" VerticalAlignment="Top" Height="43" RenderTransformOrigin="0.496,0.534" Click="convert_onclick"/>
+        <RadioButton x:Name="KilometersRadioButton" Content="kilometri" HorizontalAlignment="Left" Margin="236,145,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="MilesRadioButton" HorizontalAlignment="Left" Margin="542,148,0,0" VerticalAlignment="Top" Content="miles"/>
+
+    </Grid>
+</Window>
