@@ -1,0 +1,16 @@
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus18_oikea\bin\Debug\harjoitus18_oikea.exe.config
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus18_oikea\bin\Debug\harjoitus18_oikea.exe
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus18_oikea\bin\Debug\harjoitus18_oikea.pdb
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus18_oikea\obj\Debug\harjoitus18_oikea.csproj.AssemblyReference.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus18_oikea\obj\Debug\harjoitus18_oikea.csproj.SuggestedBindingRedirects.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus18_oikea\obj\Debug\MainWindow.g.cs
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus18_oikea\obj\Debug\App.g.cs
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus18_oikea\obj\Debug\harjoitus18_oikea_MarkupCompile.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus18_oikea\obj\Debug\harjoitus18_oikea_MarkupCompile.lref
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus18_oikea\obj\Debug\MainWindow.baml
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus18_oikea\obj\Debug\harjoitus18_oikea.g.resources
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus18_oikea\obj\Debug\harjoitus18_oikea.Properties.Resources.resources
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus18_oikea\obj\Debug\harjoitus18_oikea.csproj.GenerateResource.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus18_oikea\obj\Debug\harjoitus18_oikea.csproj.CoreCompileInputs.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus18_oikea\obj\Debug\harjoitus18_oikea.exe
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\oikeaosio4\harjoitus18_oikea\obj\Debug\harjoitus18_oikea.pdb
