@@ -1,0 +1,27 @@
+﻿<Page x:Class="harjoitus19.kerros1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:harjoitus19"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="kerros1">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="7*"/>
+            <ColumnDefinition Width="59*"/>
+            <ColumnDefinition Width="334*"/>
+        </Grid.ColumnDefinitions>
+        <Frame x:Name="main" Content="valitse kerros" RenderTransformOrigin="0.501,0.533" Background="#FFF6F6F6" Grid.ColumnSpan="3" Margin="0,0,14,0"/>
+        <Button x:Name="bt1" Grid.Column="1" Content="kerros 2" HorizontalAlignment="Left" Margin="90,304,0,0" VerticalAlignment="Top" Click="kerrokaet2" Grid.ColumnSpan="2"/>
+        <Button x:Name="bt2" Grid.Column="2" Content="kerros 3" HorizontalAlignment="Left" Margin="64,304,0,0" VerticalAlignment="Top" Click="click2"/>
+        <Button x:Name="bt3" Grid.Column="2" Content="kerros 4" HorizontalAlignment="Left" Margin="170,304,0,0" VerticalAlignment="Top" Click="click3"/>
+        <Button x:Name="bt4" Grid.Column="2" Content="kerros 5" HorizontalAlignment="Left" Margin="261,304,0,0" VerticalAlignment="Top" Click="click4"/>
+        <Button x:Name="bt_valitse" Grid.Column="2" Content="kerros" HorizontalAlignment="Left" Margin="261,175,0,0" VerticalAlignment="Top" Click="click_valitse"/>
+        <TextBox x:Name="tb1" Grid.Column="2" HorizontalAlignment="Left" Margin="224,126,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBlock Grid.Column="2" HorizontalAlignment="Left" Margin="135,0,0,0" TextWrapping="Wrap" Text="valitse itse kerros tai  valitse valmiiksi luotu kerros" VerticalAlignment="Center"/>
+
+    </Grid>
+</Page>
