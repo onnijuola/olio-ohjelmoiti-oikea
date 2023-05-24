@@ -1,0 +1,16 @@
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\tehtävä20\bin\Debug\tehtävä20.exe.config
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\tehtävä20\bin\Debug\tehtävä20.exe
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\tehtävä20\bin\Debug\tehtävä20.pdb
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\tehtävä20\obj\Debug\tehtävä20.csproj.AssemblyReference.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\tehtävä20\obj\Debug\tehtävä20.csproj.SuggestedBindingRedirects.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\tehtävä20\obj\Debug\MainWindow.g.cs
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\tehtävä20\obj\Debug\App.g.cs
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\tehtävä20\obj\Debug\tehtävä20_MarkupCompile.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\tehtävä20\obj\Debug\tehtävä20_MarkupCompile.lref
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\tehtävä20\obj\Debug\MainWindow.baml
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\tehtävä20\obj\Debug\tehtävä20.g.resources
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\tehtävä20\obj\Debug\tehtävä20.Properties.Resources.resources
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\tehtävä20\obj\Debug\tehtävä20.csproj.GenerateResource.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\tehtävä20\obj\Debug\tehtävä20.csproj.CoreCompileInputs.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\tehtävä20\obj\Debug\tehtävä20.exe
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\tehtävä20\obj\Debug\tehtävä20.pdb

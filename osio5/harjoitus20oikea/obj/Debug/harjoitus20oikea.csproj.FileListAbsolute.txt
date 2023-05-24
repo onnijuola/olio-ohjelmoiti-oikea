@@ -1,0 +1,15 @@
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\harjoitus20oikea\bin\Debug\harjoitus20oikea.exe.config
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\harjoitus20oikea\bin\Debug\harjoitus20oikea.exe
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\harjoitus20oikea\bin\Debug\harjoitus20oikea.pdb
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\harjoitus20oikea\obj\Debug\harjoitus20oikea.csproj.AssemblyReference.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\harjoitus20oikea\obj\Debug\harjoitus20oikea.csproj.SuggestedBindingRedirects.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\harjoitus20oikea\obj\Debug\MainWindow.baml
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\harjoitus20oikea\obj\Debug\MainWindow.g.cs
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\harjoitus20oikea\obj\Debug\App.g.cs
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\harjoitus20oikea\obj\Debug\harjoitus20oikea_MarkupCompile.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\harjoitus20oikea\obj\Debug\harjoitus20oikea.g.resources
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\harjoitus20oikea\obj\Debug\harjoitus20oikea.Properties.Resources.resources
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\harjoitus20oikea\obj\Debug\harjoitus20oikea.csproj.GenerateResource.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\harjoitus20oikea\obj\Debug\harjoitus20oikea.csproj.CoreCompileInputs.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\harjoitus20oikea\obj\Debug\harjoitus20oikea.exe
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio5\harjoitus20oikea\obj\Debug\harjoitus20oikea.pdb
