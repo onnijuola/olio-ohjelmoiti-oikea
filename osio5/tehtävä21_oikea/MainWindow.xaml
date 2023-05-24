@@ -1,0 +1,17 @@
+﻿<Window x:Class="tehtävä21_oikea.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:tehtävä21_oikea"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <CheckBox x:Name="cb1" Content="maito" HorizontalAlignment="Left" Margin="653,177,0,0" VerticalAlignment="Top" Checked="check1"/>
+        <CheckBox x:Name="cb2" HorizontalAlignment="Left" Margin="653,236,0,0" VerticalAlignment="Top" Content="kana" Checked="check2"/>
+        <CheckBox x:Name="cb3" HorizontalAlignment="Left" Margin="653,296,0,0" VerticalAlignment="Top" Content="pähkinät" Checked="check3"/>
+        <Button x:Name="bt1" HorizontalAlignment="Left" Margin="400,234,0,0" VerticalAlignment="Top" Content="osta" Click="click1"/>
+        <StackPanel/>
+
+    </Grid>
+</Window>
