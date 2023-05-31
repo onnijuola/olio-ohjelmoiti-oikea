@@ -1,0 +1,22 @@
+﻿<Window x:Class="KiuasOhjelma.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Kiuas Ohjelma" Height="350" Width="500">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="Kiuas Ohjelma" FontSize="20" Margin="0,0,0,20"/>
+
+            <TextBlock Text="Lämpötila:" FontSize="16"/>
+            <Slider x:Name="lampotilaSlider" Minimum="0" Maximum="120" TickFrequency="1" IsSnapToTickEnabled="True" Margin="0,0,0,10" ValueChanged="lampotilaSlider_ValueChanged"/>
+            <TextBlock x:Name="lampotilaText" Text="0" FontSize="16" HorizontalAlignment="Center"/>
+
+            <TextBlock Text="Kosteus:" FontSize="16"/>
+            <Slider x:Name="kosteusSlider" Minimum="0" Maximum="100" TickFrequency="1" IsSnapToTickEnabled="True" Margin="0,0,0,10" ValueChanged="kosteusSlider_ValueChanged"/>
+            <TextBlock x:Name="kosteusText" Text="0" FontSize="16" HorizontalAlignment="Center"/>
+
+            <Button x:Name="tilaButton" Content="Vaihda tila" FontSize="16" Click="tilaButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
+
+
