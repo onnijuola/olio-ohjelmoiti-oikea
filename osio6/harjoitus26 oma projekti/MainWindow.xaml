@@ -1,0 +1,13 @@
+﻿<Window x:Class="WpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Image Placement" Height="350" Width="525">
+    <Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <RadioButton x:Name="option1" Content="Vaihtoehto 1" Checked="Option_Checked" />
+            <RadioButton x:Name="option2" Content="Vaihtoehto 2" Checked="Option_Checked" />
+            <RadioButton x:Name="option3" Content="Vaihtoehto 3" Checked="Option_Checked" />
+            <Image x:Name="displayImage" Width="200" Height="200" Visibility="Hidden" />
+        </StackPanel>
+    </Grid>
+</Window>
