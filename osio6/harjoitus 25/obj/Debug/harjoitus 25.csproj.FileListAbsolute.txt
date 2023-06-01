@@ -1,0 +1,15 @@
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio6\harjoitus 25\bin\Debug\harjoitus 25.exe.config
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio6\harjoitus 25\bin\Debug\harjoitus 25.exe
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio6\harjoitus 25\bin\Debug\harjoitus 25.pdb
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio6\harjoitus 25\obj\Debug\harjoitus 25.csproj.AssemblyReference.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio6\harjoitus 25\obj\Debug\harjoitus 25.csproj.SuggestedBindingRedirects.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio6\harjoitus 25\obj\Debug\MainWindow.baml
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio6\harjoitus 25\obj\Debug\MainWindow.g.cs
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio6\harjoitus 25\obj\Debug\App.g.cs
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio6\harjoitus 25\obj\Debug\harjoitus 25_MarkupCompile.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio6\harjoitus 25\obj\Debug\harjoitus 25.g.resources
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio6\harjoitus 25\obj\Debug\harjoitus_25.Properties.Resources.resources
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio6\harjoitus 25\obj\Debug\harjoitus 25.csproj.GenerateResource.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio6\harjoitus 25\obj\Debug\harjoitus 25.csproj.CoreCompileInputs.cache
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio6\harjoitus 25\obj\Debug\harjoitus 25.exe
+C:\Users\onni.juola\source\repos\olio-ohjelmoiti-oikea\osio6\harjoitus 25\obj\Debug\harjoitus 25.pdb
